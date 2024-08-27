@@ -85,6 +85,11 @@ footer {
     margin-top: 20px;
 }
 
+.about-image > img{
+    width: 150px;
+    height: 150px;
+}
+
 /* Responsif: Mobile dan Tablet */
 @media (max-width: 768px) {
     .navbar ul {
